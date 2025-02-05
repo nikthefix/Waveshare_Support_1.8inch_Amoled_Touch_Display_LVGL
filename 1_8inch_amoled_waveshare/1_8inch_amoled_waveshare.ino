@@ -14,7 +14,7 @@ LVGL 8.3.11
 
 Notes:
 
-This build uses a lean SH8601 display driver rather than the Arduino_GFX framework used in the Lilygo supplied examples.
+This build uses a lean SH8601 display driver rather than the Arduino_GFX framework used in the Waveshare supplied examples.
 The driver files are supplied in the sketch directory so no installation is required.
 The touch driver is also included in the sketch directory so no installation is required.
 I recommend a clean LVGL install via the Arduino library manager and perhaps a clean lv_conf.h with the following modifications:

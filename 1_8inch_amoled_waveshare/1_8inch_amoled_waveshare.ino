@@ -2,7 +2,7 @@
 
 nikthefix 05.02.25
 
-Waveshare Amoled TouchDisplay 1.8"
+Waveshare ESP32-S3 1.8inch AMOLED Display Development Board, 368×448, QSPI
 
 
 Dependencies:

@@ -1,9 +1,8 @@
 /*
 
-nikthefix 23.01.25
+nikthefix 05.02.25
 
-Lilygo T-Display-S3-Amoled-1.75"
-
+Waveshare Amoled TouchDisplay 1.8"
 
 
 Dependencies:
